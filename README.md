@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/t906ijsd06aiejbf?svg=true)](https://ci.appveyor.com/project/Nezumi-sama/taproject-02-1)
